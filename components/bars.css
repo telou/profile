@@ -1,0 +1,14 @@
+.bars {
+  transition: 0.3s;
+}
+.bars:hover {
+  color: black;
+}
+
+.btn_social {
+  list-style: none;
+  margin: none;
+  display: inline-block;
+  font-size: 40px;
+  transition: 0.3s;
+}
